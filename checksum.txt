@@ -1,4 +1,4 @@
-notice.txt=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-bind_device.txt=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-usedkey.txt=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-version.txt=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+notice.txt=abbfef7fae0c8b4eb4f113731ced5498
+bind_device.txt=3cf20dc513861b9f934a1f2628c7e03c
+usedkey.txt=d41d8cd98f00b204e9800998ecf8427e
+version.txt=bfcefd8e2984478fcf372f8f9a05cb73
