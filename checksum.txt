@@ -1,0 +1,4 @@
+notice.txt=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+bind_device.txt=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+usedkey.txt=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+version.txt=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
